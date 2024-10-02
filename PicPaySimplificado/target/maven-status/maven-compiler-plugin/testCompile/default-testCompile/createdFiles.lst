@@ -1,0 +1,4 @@
+picpay\integration\UserPaymentTest.class
+picpay\fixture\PaymentFixtures.class
+picpay\integration\ShopkeeperPaymentTest.class
+picpay\integration\PaymentTest.class
